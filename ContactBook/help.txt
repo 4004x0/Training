@@ -1,0 +1,5 @@
+To run this programm you need :
+    1) Compile it 
+        Use the "javac + yourFileName.java", you will get yourFileName.class
+    2) Run it 
+        Use the "java + yourFileName"
